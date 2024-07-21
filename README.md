@@ -2,6 +2,8 @@
 
 [Setup commit message](https://stackoverflow.com/questions/78154135/how-to-add-husky-and-commitlint-to-angular-project)
 
+[Nest configuration](https://github.com/smarlhens/nest-boilerplate)
+
 <p align="center">
   <a href="http://nestjs.com/" target="blank"><img src="https://nestjs.com/img/logo-small.svg" width="200" alt="Nest Logo" /></a>
 </p>
